@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;
+    background: url(./fondo.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.col-12 {
+    padding: 10px 10px;
+}   
+
+span {
+    color: red;
+}
